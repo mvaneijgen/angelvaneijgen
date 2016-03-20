@@ -1,0 +1,28 @@
+# Site settings
+title: Angel van Eijgen
+subtitle: Curriculum Vitae
+location: Haarlem
+first: Angel
+last: van Eijgen
+email: angel.vaneijgen@gmail.com
+age: 28 maart 1995
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi iaculis nisl quis commodo facilisis.
+baseurl: "//angelvaneijgen.nl" # the subpath of your site, e.g. /blog/
+url: "//angelvaneijgen.nl" # the base hostname & protocol for your site
+facebook_username: angel.vaneijgen
+linkedin_username: angel.vaneijgen
+
+# Styling
+divider: —
+current: Heden
+# Build settings
+markdown: kramdown
+
+# Collections
+collections:
+  work:
+    output: false
+  intern:
+    output: false
+  school:
+    output: false
