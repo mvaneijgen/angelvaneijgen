@@ -40,7 +40,7 @@ h1, h2, h3, p {
 }
 h1 {
   font-size: 2.4rem;
-  line-height: 3.8rem;
+  line-height: 2.8rem;
 }
 h2 {
   font-size: 1.6rem;
@@ -183,6 +183,10 @@ a:hover {
   h1 span {
     display: block;
   }
+  h2 {
+    font-size: 1rem;
+    line-height: 1.8rem;
+  }
 }
 @media only screen and (min-width : 595px) {
 	/* Styles */
@@ -191,6 +195,10 @@ a:hover {
   }
   .page-content .wrapper {
     border-left: 2px dashed #ccc;
+  }
+  .btn {
+    margin-right: 15px;
+    margin-left: 15px;
   }
 }
 @media only screen and (min-width : 795px) {
