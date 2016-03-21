@@ -29,8 +29,6 @@ collections:
 
 # Collections
 prose:
-  rooturl: "_work"
-  media: "assets/img"
   siteurl: "http://www.angelvaneijgen.nl"
   metadata:
     _work:
@@ -44,11 +42,53 @@ prose:
           label: "Bedrijf"
       - name: "start"
         field:
-          element: "number"
+          element: "text"
           label: "Start jaar"
       - name: "end"
         field:
-          element: "number"
+          element: "text"
+          label: "Eind jaar"
+      - name: "location"
+        field:
+          element: "text"
+          label: "Locatie"
+    _school:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+      - name: "institute"
+        field:
+          element: "text"
+          label: "School"
+      - name: "start"
+        field:
+          element: "text"
+          label: "Start jaar"
+      - name: "end"
+        field:
+          element: "text"
+          label: "Eind jaar"
+      - name: "location"
+        field:
+          element: "text"
+          label: "Locatie"
+    _intern:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+      - name: "institute"
+        field:
+          element: "text"
+          label: "Bedrijf"
+      - name: "start"
+        field:
+          element: "text"
+          label: "Start jaar"
+      - name: "end"
+        field:
+          element: "text"
           label: "Eind jaar"
       - name: "location"
         field:
