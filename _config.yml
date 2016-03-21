@@ -29,7 +29,15 @@ collections:
 
 # Collections
 prose:
-  ignore: [*.yml', '*.html','CNAME','*.xml','_includes','_layouts','_posts','assets']
+  ignore:
+    - /\..*
+    - /_config.yml
+    - /feed.xml
+    - /CNAME
+    - /_layouts
+    - /_includes
+    - /assets
+    - /_posts
   siteurl: "http://www.angelvaneijgen.nl"
   metadata:
     _work:
