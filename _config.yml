@@ -26,3 +26,31 @@ collections:
     output: false
   school:
     output: false
+
+# Collections
+prose:
+  rooturl: "_work"
+  media: "assets/img"
+  siteurl: "http://www.angelvaneijgen.nl"
+  metadata:
+    _work:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+      - name: "institute"
+        field:
+          element: "text"
+          label: "Bedrijf"
+      - name: "start"
+        field:
+          element: "number"
+          label: "Start jaar"
+      - name: "end"
+        field:
+          element: "number"
+          label: "Eind jaar"
+      - name: "location"
+        field:
+          element: "text"
+          label: "Locatie"
