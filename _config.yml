@@ -31,13 +31,15 @@ collections:
 prose:
   ignore:
     - /\..*
-    - /_config.yml
+    - /*.yml
     - /feed.xml
     - /CNAME
     - /_layouts
     - /_includes
     - /assets
     - /_posts
+    - /*.html
+    - /.gitignore
   siteurl: "http://www.angelvaneijgen.nl"
   metadata:
     _work:
