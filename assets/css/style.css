@@ -14,6 +14,7 @@ body {
 .wrapper {
   padding: 30px;
   margin: 0 auto;
+  position: relative;
 }
 section {
   padding-bottom: 60px;
@@ -222,9 +223,28 @@ a:hover {
 }
 /* Print */
 @media print {
+  html {
+    font-size: 16px;
+  }
   #info:before {
     content: "HELLO";
     color: rgba(0,0,0,.05);
+  }
+  #info {
+    padding-bottom: 40px;
+  }
+  #info h2 {
+    display: none;
+  }
+  #author {
+    position: absolute;
+    right: 10px;
+    top: 30px;
+    z-index: 999;
+  }
+
+  h3 span {
+    color: #ccc;
   }
   .items {
     display: flex;
@@ -236,6 +256,12 @@ a:hover {
   #interactive,
   .site-nav {
     display: none;
+  }
+  h2 {
+    margin-bottom: 10px;
+  }
+  section {
+    padding-bottom: 0;
   }
 }
 .site-nav {
