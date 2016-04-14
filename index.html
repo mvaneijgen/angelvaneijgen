@@ -20,7 +20,7 @@ layout: default
 <section id="intern" class="list">
 <h2>Stages</h2>
   <div class="items">
-    {% assign items = site.intern %}
+    {% assign items = site.intern | sort: 'start' %}
     {% for item in items reversed %}
       {% include item-structure.html%}
     {% endfor %}
