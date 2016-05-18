@@ -1,6 +1,6 @@
 ---
 published: false
-title: Bavinckschool
+title: Onderwijsassistent
 institute: Bavinckschool
 start: "2013"
 end: "2015"
