@@ -1,6 +1,6 @@
 ---
 published: false
-title: "Maatschappelijk Werk & Dienstverlening"
+title: Maatschappelijk werker
 institute: Tandem
 start: "2014"
 end: "2014"
