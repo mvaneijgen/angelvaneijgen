@@ -1,8 +1,9 @@
 ---
-title: Sociaal Pedagogische Hulpverlening
-institute: Inholland
-start: "2013"
-end: "Heden"
-description:
+title: "Maatschappelijk Werk & Dienstverlening"
+institute: Hogeschool Inholland
+start: "2014"
+end: Heden
+description: null
 location: Haarlem
+published: true
 ---
