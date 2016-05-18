@@ -6,7 +6,8 @@ first: Angel
 last: van Eijgen
 email: angel.vaneijgen@gmail.com
 age: 28 maart 1995
-description: Hallo, mijn naam is Angel van Eijgen en bekijk hier mijn Curriculum Vitae.
+phone: 06 53 91 65 56
+description: Hallo mijn naam is Angel van Eijgen, bekijk hier mijn Curriculum Vitae.
 baseurl: "//angelvaneijgen.nl" # the subpath of your site, e.g. /blog/
 url: "//angelvaneijgen.nl" # the base hostname & protocol for your site
 facebook_username: angel.vaneijgen
