@@ -3,7 +3,7 @@ published: false
 title: Loket Haarlem
 institute: Maatschappelijk werker
 start: '2016'
-end: heden
+end: Heden
 ---
 ## A New Post
 
