@@ -1,7 +1,7 @@
 ---
 published: false
-title: Untitled
-institute: 'Kenter Jeugdhulp, Fasehuis '
+title: 'Kenter Jeugdhulp, Fasehuis'
+institute: Maatschappelijk werker
 location: Haarlem
 start: '2016'
 end: Heden
