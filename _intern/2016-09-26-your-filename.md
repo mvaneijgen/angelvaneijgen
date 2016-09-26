@@ -1,10 +1,10 @@
 ---
 published: false
-title: 'Kenter Jeugdhulp, Fasehuis'
-institute: Maatschappelijk werker
+title: Maatschappelijk werker
 location: Haarlem
 start: '2016'
 end: Heden
+institute: 'Kenter Jeugdhulp, Fasehuis'
 ---
 ## A New Post
 
