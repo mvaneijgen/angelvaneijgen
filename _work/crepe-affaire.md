@@ -2,7 +2,7 @@
 title: Bediening & Bar
 institute: Crepe Affaire
 start: '2015'
-end: Heden
+end: '2016'
 description: null
 location: Haarlem
 published: true
