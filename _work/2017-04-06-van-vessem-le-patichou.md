@@ -1,7 +1,7 @@
 ---
 institute: 'Verkoopmedewerkster '
 start: '2016'
-end: Heden
+end: '2017'
 location: Haarlem
 published: false
 title: Van Vessem & le Patichou
