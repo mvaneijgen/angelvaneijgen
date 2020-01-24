@@ -3,7 +3,7 @@ published: false
 title: Flexpoolmedewerker
 institute: Kenter Jeugdhulp
 start: '2017'
-end: Heden
+end: september 2018
 location: Haarlem
 ---
 ## A New Post
