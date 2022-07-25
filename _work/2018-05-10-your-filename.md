@@ -1,6 +1,7 @@
 ---
 published: false
 title: ''
+published: false
 ---
 ## A New Post
 
