@@ -82,7 +82,7 @@ a:hover {
   margin: 0 auto;
   margin-bottom: 30px;
   display: block;
-  border-radius: 50%;
+  /* border-radius: 50%; */
   border: 8px solid #eee;
 }
 #interactive {
